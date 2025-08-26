@@ -1,0 +1,4 @@
+{
+    "command": "npm run test",
+    "working_directory": "/home/kavia/workspace/code-generation/cyberguard-analytics-dashboard-26/cybersecurity_dashboard_frontend"
+}
